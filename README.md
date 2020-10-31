@@ -3,13 +3,13 @@
 Horiseon Challenge Description
 
 
-USER STORY
+# USER STORY
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-ACCEPTANCE CRITERIA
+# ACCEPTANCE CRITERIA
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -23,6 +23,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-MOCK UP 
+# MOCK UP 
 
 <img src="https://github.com/adamjfreeman/Horiseon-Code-Refactor/blob/main/urban-octo-telegram/Develop/assets/images/01-html-css-git-homework-demo-1.png">
