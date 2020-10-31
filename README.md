@@ -25,4 +25,5 @@ THEN I find a concise, descriptive title
 
 # MOCK UP 
 
-<img src="https://github.com/adamjfreeman/Horiseon-Code-Refactor/blob/main/urban-octo-telegram/Develop/assets/images/01-html-css-git-homework-demo-1.png">
+![01-html-css-git-homework-demo-1](https://user-images.githubusercontent.com/73137291/97784412-118c0280-1b64-11eb-9834-abead06a346f.png)
+
