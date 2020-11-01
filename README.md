@@ -9,7 +9,7 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-# ACCEPTANCE CRITERIA
+# ACCEPTANCE CRITERIA (items accomplished)
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -22,6 +22,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+# Tools Used
+HTML, CSS and GIT
 
 # MOCK UP 
 
